@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+---
+layout: default
+title: CentFuxx - Digitalisierung im Alltag
+---
 
-You can use the [editor on GitHub](https://github.com/centfuxx/centfuxx.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# CentFuxx - Digitalisierung im Alltag
+Die Idee hinter CentFuxx schwirrt schon seit einigen Jahren in meinem Kopf herum. Allerdings habe ich bisher nicht die Zeit gefunden, diese Ideen strukturiert niederzuschreiben oder gar in Gänze zu verwirklichen. Ich habe zwar bereits einige Anläufe gestartet, aber auf Grund von vielen anderen Themen, musste ich diese jedoch immer hinten anstellen.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Kern der Idee 
+Es ist eigentlich ganz simpel. Ich möchte mit CentFuxx die Normalverbraucher bei ihren täglichen Einkäufen unterstützen. Doch wie soll das passieren?
 
-### Markdown
+## Andere Angebote
+Natürlich haben sich hierzu bereits andere ebenfalls Gedanken gemacht. Daraus sind die folgenden Angebote entstanden - mehr oder weniger erfolgreich:
+* [KaufDA](https://www.kaufda.de/)
+* [MarktGuru](https://www.marktguru.de/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Diese Angebote beschränken sich zum Großteil darauf, die Prospekte, die auch in gedruckter Form verteilt werden, in digitaler Form durchblättern zu können. 
 
-```markdown
-Syntax highlighted code block
+## Ein neuer Ansatz ist notwendig
+Wie so oft ist es nicht Ziel der Digitalisierung, unsere bisherigen Prozesse und Denkmuster in Software-Produkte zu überführen. Vielmehr ist Digitalisierung der Schritt zu überlegen, wie eine Software helfen kann, die bisherigen Strukturen zu verbessern und zu optimieren. Dafür müssen wir uns in die Personen hineinversetzen, die unsere Software nutzen sollen.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/centfuxx/centfuxx.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
