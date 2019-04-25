@@ -8,3 +8,5 @@ exclude:
 
 include : 
   - node_modules/@orgenic/orgenic-ui/dist/orgenic-ui.js
+
+title: "CentFuxx - Einfach einkaufen..." 
