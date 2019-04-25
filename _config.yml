@@ -1,1 +1,10 @@
-theme: "jekyll-theme-dinky"
+
+exclude:
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - package-lock.json
+
+include : 
+  - node_modules/@orgenic/orgenic-ui/dist/orgenic-ui.js
