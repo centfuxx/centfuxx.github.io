@@ -2,8 +2,7 @@
 layout: default
 title: CentFuxx - Digitalisierung im Alltag
 ---
-
-# CentFuxx - Digitalisierung im Alltag
+## Warum Open Source?
 Die Idee hinter CentFuxx schwirrt schon seit einigen Jahren in meinem Kopf herum. Allerdings habe ich bisher nicht die Zeit gefunden, diese Ideen strukturiert niederzuschreiben oder gar in Gänze zu verwirklichen. Ich habe zwar bereits einige Anläufe gestartet, aber auf Grund von vielen anderen Themen, musste ich diese jedoch immer hinten anstellen.
 
 ## Kern der Idee 
